@@ -3,6 +3,6 @@ module.exports = {
     port: process.env.PORT || 5000,
   },
   mongoDB: {
-    databaseUrl: `mongodb+srv://vjlqdimir:Mollybesitcya@cluster0.udhs8.mongodb.net/myFirstDatabase?retryWrites=true&w=majority`,
+    databaseUrl: `mongodb+srv://itlyubaeva957:AF4M76nFZe560twK@cluster0.s0hfrzu.mongodb.net/retryWrites=true&w=majority`,
   },
 };
